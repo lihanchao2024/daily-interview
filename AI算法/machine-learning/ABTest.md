@@ -74,3 +74,8 @@ ABtest就是为了测试和验证模型/项目的效果，在app/pc端设计出�
 ## 参考资料
 
 https://zhuanlan.zhihu.com/p/165406531
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

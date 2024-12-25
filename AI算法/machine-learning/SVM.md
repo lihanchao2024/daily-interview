@@ -245,3 +245,9 @@ SVM是一种二类分类模型，其主要思想为找到空间中的一个更�
  - 关于SMO算法 https://blog.csdn.net/luoshixian099/article/details/51227754#commentBox
  - 李航《统计学习方法》
  - 面试真题 https://zhuanlan.zhihu.com/p/43827793   https://zhuanlan.zhihu.com/p/57947723
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

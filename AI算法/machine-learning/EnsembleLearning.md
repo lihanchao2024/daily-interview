@@ -102,3 +102,8 @@ $$
   - importance_type=weight（默认值），特征重要性使用特征在所有树中作为划分属性的次数。
   - mportance_type=gain，特征重要性使用特征在作为划分属性时loss平均的降低量。
   - importance_type=cover，特征重要性使用特征在作为划分属性时对样本的覆盖度。
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

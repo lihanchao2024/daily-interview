@@ -117,3 +117,9 @@ $$
 1. Mann A K, Kaur N. Review paper on clustering techniques[J]. Global Journal of Computer Science and Technology, 2013.
 2. https://blog.csdn.net/hua111hua/article/details/86556322
 3. REZAEI M. Clustering validation[J].
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

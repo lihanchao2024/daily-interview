@@ -141,3 +141,9 @@ LightGBM的EFB算法将这个问题转化为图着色的问题来求解，将所
 Lightgbm如何处理类别特征： https://blog.csdn.net/anshuai_aw1/article/details/83275299
 
 LightGBM 直方图优化算法：https://blog.csdn.net/jasonwang_/article/details/80833001
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

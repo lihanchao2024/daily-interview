@@ -166,3 +166,9 @@ GBDT与Boosting区别较大，它的每一次计算都是为了减少上一次�
 2. https://blog.csdn.net/u010398493/article/details/77587749
 3. https://www.jianshu.com/p/49ab87122562
 4. https://blog.csdn.net/qq_22238533/article/details/79199605 
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

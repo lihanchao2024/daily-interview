@@ -67,4 +67,7 @@ CatBoost是一种以对称决策树 为基学习器的GBDT框架，主要为例�
 - 不同随机数的设定对于模型预测结果有一定的影响；
 
 
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

@@ -242,4 +242,7 @@ $$
 朴素贝叶斯是生成模型，而LR为判别模型.朴素贝叶斯：已知样本求出先验概率与条件概率，进而计算后验概率。**优点：样本容量增加时，收敛更快；隐变量存在时也可适用。缺点：时间长；需要样本多；浪费计算资源**.     **Logistic回归**：不关心样本中类别的比例及类别下出现特征的概率，它直接给出预测模型的式子。设每个特征都有一个权重，训练样本数据更新权重w，得出最终表达式。**优点：直接预测往往准确率更高；简化问题；可以反应数据的分布情况，类别的差异特征；适用于较多类别的识别。缺点：收敛慢；不适用于有隐变量的情况。**    > + 朴素贝叶斯是基于很强的条件独立假设（在已知分类Y的条件下，各个特征变量取值是相互独立的），而LR则对此没有要求。    > + 朴素贝叶斯适用于数据集少的情景，而LR适用于大规模数据集。
 
 
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

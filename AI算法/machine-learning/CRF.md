@@ -122,3 +122,8 @@ $$
 4.百面机器学习 - 诸葛越&葫芦娃   
 5.NLP汉语自然语言处理原理与实践 - 郑捷  
 6.http://blog.sina.com.cn/s/blog_6d1875160101gy4e.html
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

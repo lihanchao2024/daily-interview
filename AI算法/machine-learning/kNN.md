@@ -77,3 +77,8 @@ KNN算法利用训练数据集对特征向量空间进行划分。KNN算法的�
 6. https://blog.csdn.net/fool_ran/article/details/85246432
 7. 李航 统计学习方法
 
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

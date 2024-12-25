@@ -229,3 +229,8 @@ Iterative Bagging相比Bagging会降低误差，但是方差上升。由于Baggi
 2. 周志华 《机器学习》第8章 集成学习
 3. [July的博客](https://blog.csdn.net/v_JULY_v/article/details/40718799)
 4. http://fornlp.com/%E5%91%A8%E5%BF%97%E5%8D%8E-%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B-%E7%AD%94%E6%A1%88%E6%95%B4%E7%90%86/
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

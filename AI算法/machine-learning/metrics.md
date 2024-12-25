@@ -194,3 +194,9 @@ $$
 3. https://baike.baidu.com/item/CVR/20215345
 4. https://baike.baidu.com/item/CTR/10653699?fr=aladdin
 5. https://www.cnblogs.com/shenxiaolin/p/9309749.html
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

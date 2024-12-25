@@ -117,3 +117,7 @@
 
   称关联规则$X\Rightarrow Y$为强关联规则,否则称关联规则$X\Rightarrow Y$为弱关联规则。在挖掘关联规则时,产生的关联规则要经过$\min sup$和$\min conf$的衡量筛选出来的强关联规则才能用商家的决策 
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

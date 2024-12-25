@@ -231,3 +231,11 @@ CART采用的是不停的二分。会考虑把特征$A$分成${A1}$和${A2,A3}$�
 ## 参考资料
 
 [c4.5为什么使用信息增益比来选择特征？](https://www.zhihu.com/question/22928442/answer/440836807)
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>
+
+

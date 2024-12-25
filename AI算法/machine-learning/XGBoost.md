@@ -190,3 +190,9 @@ $XGBoost$模型的一个优点就是允许特征存在缺失值。对缺失值�
 3. https://mp.weixin.qq.com/s/a4v9n_hUgxNyKSQ3RgDMLA
 4. https://www.cnblogs.com/pinard/p/6140514.html
 5. https://www.zhihu.com/question/63560633/answer/569536833
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>

@@ -111,4 +111,9 @@ $$IR(A,B)=\frac{|sup(A)-sup(B)|}{sup(A)+sup(B)-sup(A\cup B)} \tag{8}$$
 1. https://saliormoon.github.io/2016/07/01/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%981/
 2. 数据挖掘概念与技术第三版
 3. https://baijiahao.baidu.com/s?id=1607039314145277013&wfr=spider&for=pc
-4. 
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>
